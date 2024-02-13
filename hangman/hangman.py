@@ -5,7 +5,7 @@ def initialize_game():
     print("Hello " + user_name + ", you are going to play hangman.\nHave fun !!!")
     print("\n-------------------------------------------------------------------------------------\n")
 
-    with open("words.txt", "r") as file:
+    with open("./hangman/words.txt", "r") as file:
         allText = file.read()
         words = list(map(str, allText.split()))
 
