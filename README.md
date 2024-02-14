@@ -15,27 +15,27 @@
 
 ## Hangman
 
-command: `python3 hangman/hangman.py`
+command: `python hangman/hangman.py` OR `python3 hangman/hangman.py`
 
 ## Snake
 
-command: `python3 snake/snake.py`
+command: `python snake/snake.py` OR `python3 snake/snake.py`
 
 ## Tetris
 
-command: `python3 tetris/tetris.py`
+command: `python tetris/tetris.py` OR `python3 tetris/tetris.py`
 
 ## Pong
 
-command: `python3 pong/pong.py`
+command: `python pong/pong.py` OR `python3 pong/pong.py`
 
 ## Space Invaders
 
-command: `python3 space-invaders/spaceinvaders.py`
+command: `python space-invaders/spaceinvaders.py` OR `python3 space-invaders/spaceinvaders.py`
 
 ## Minesweeper
 
-command: ``
+command: `python minesweeper/minesweeper.py` OR `python3 minesweeper/minesweeper.py`
 
 ## Platformer game
 
@@ -43,4 +43,4 @@ command: ``
 
 ## Dodge game
 
-command: ``
+command: `python dodge-game/dodge-game.py` OR `python3 dodge-game/dodge-game.py`
